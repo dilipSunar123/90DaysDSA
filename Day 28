@@ -8,3 +8,8 @@ Question: Reverse First K elements of Queue
 Link: https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/?category[]=Queue&category[]=Queue&page=1&query=category[]Queuepage1category[]Queue#
 
 -----------------------------------Will now be trying to optimise the solution------------------------------------------
+
+Kya din tha yaar aaj!
+
+Earlier the space complexity was O(n^2) but now it is O(n)
+Time complexity remained the same O(n);
