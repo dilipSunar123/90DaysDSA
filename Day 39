@@ -6,3 +6,11 @@ Problem: Contains Duplicate
 Link: https://leetcode.com/problems/contains-duplicate/
 
 Will now be trying to optimise it!
+
+I guess no optimisation will be possibele here.. 
+Time Limit: O(n)
+Space: O(n)
+
+Tried with time complexity of O(n^2) and space of O(1) but time limit getting exceeded.
+
+Will now be trying medium level problem
