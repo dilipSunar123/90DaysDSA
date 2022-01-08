@@ -1,0 +1,6 @@
+#Array
+
+Tried solving an easy problem and yes, it does run in O(n^2) time but not able to optimise it so, time limit exceeded..
+
+Problem: Contains Duplicate ||
+Link: https://leetcode.com/problems/contains-duplicate-ii/
